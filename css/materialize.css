@@ -6895,7 +6895,9 @@ input[type=range] + .thumb {
 .container {
     margin: 0 auto;
     max-width: 1280px;
-    width: 90%;
+    width: 94%;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 @media only screen and (min-width: 601px) {
@@ -7525,7 +7527,9 @@ nav .brand-logo {
     color: #fff;
     display: inline-block;
     font-size: 2.1rem;
-    padding: 0;
+    padding: 0px;
+    padding-left: 10px;
+    padding-top: 5px;
     white-space: nowrap;
 }
 
